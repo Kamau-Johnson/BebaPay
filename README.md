@@ -4,7 +4,11 @@ BebaPay is an innovative platform that incentivizes waste management by rewardin
 
 ## Project Overview
 
-BebaPay enables users to recycle waste and earn rewards seamlessly. Using QR code scanning and smart contract technology, the system tracks recycling activities and issues tokens as rewards. This creates a sustainable cycle that promotes environmental responsibility while offering financial benefits.
+BebaPay enables users to recycle waste and earn rewards seamlessly. Using QR code scanning and smart contract technology, the system tracks recycling activities and issues tokens as rewards. 
+
+![EduGrade+ Screenshot 1](Screenshot%201.png)
+
+This creates a sustainable cycle that promotes environmental responsibility while offering financial benefits.
 
 ## Features
 
