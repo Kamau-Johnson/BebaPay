@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BebaPay – Blockchain-Powered Recycling and Payment System
 
-## Getting Started
+BebaPay is an innovative platform that incentivizes waste management by rewarding users for recycling. It integrates blockchain technology to provide secure, transparent, and fee-free digital transactions through a Dynamic Validator Pool consensus mechanism.
 
-First, run the development server:
+## Project Overview
+
+BebaPay enables users to recycle waste and earn rewards seamlessly. Using QR code scanning and smart contract technology, the system tracks recycling activities and issues tokens as rewards. This creates a sustainable cycle that promotes environmental responsibility while offering financial benefits.
+
+## Features
+
+- QR Code Scanning for recycling activities  
+- Blockchain-powered token rewards with secure transactions  
+- Dynamic Validator Pool for consensus and validation  
+- Fee-free digital payments and wallet management  
+- Real-time rewards tracking and user dashboard  
+
+## Tech Stack
+
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Blockchain smart contracts (Solidity or equivalent)  
+**Hosting & Deployment:** Vercel, IPFS (for decentralized storage)  
+**Others:** QR Code Scanner integration, Wallet Management
+
+## Installation
+
+To run the BebaPay app locally:
 
 ```bash
+git clone https://github.com/Kamau-Johnson/BebaPay.git
+cd BebaPay
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+View the live demo of my portfolio website here: [https://v0-deploy-to-vercel-plum-seven.vercel.app/]
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Authors
 
-## Learn More
+- Kamau Johnson
+- Risper Joy
+- MITAU ™
+- Keziah
 
-To learn more about Next.js, take a look at the following resources:
+## Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kamaujohnson.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamau-johnson-4bab25276/)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Kamau_Johnson)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kamau_Johnson)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Feedback
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+I welcome your feedback and suggestions! Feel free to reach out via my portfolio at https://kamaujohnson.dev to connect or collaborate.
